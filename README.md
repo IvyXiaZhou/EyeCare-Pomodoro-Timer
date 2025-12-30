@@ -14,7 +14,6 @@ Usage Guide
 2.	Start Working: Click the "Start" button to begin the 40-minute work timer
 3.	Break Reminder: Automatically switches to 10-minute break mode after work period
 4.	View Statistics: The program automatically records daily completed work cycles
-______________________________________
 Health Tip: Remember to take regular breaks and protect your eye health!
 护眼番茄钟
 一款结合番茄工作法与护眼提醒的桌面应用程序，帮助你在保持工作效率的同时保护视力健康。
@@ -32,7 +31,6 @@ Health Tip: Remember to take regular breaks and protect your eye health!
 2.	开始工作：点击"开始"按钮，进入40分钟工作计时
 3.	休息提醒：工作结束后自动进入10分钟休息模式
 4.	查看统计：程序自动记录每日完成的工作周期数
-______________________________________
 健康提示: 记得定时休息，保护眼睛健康！ 
 
 
